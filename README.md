@@ -1,2 +1,2 @@
-# Mideo
-Mideo123
+# PAPER2026
+2025PAPER
